@@ -21,6 +21,7 @@ wp-admin/
 wp-blog-header.php
 wp-comments-post.php
 wp-config.php
+wp-config-sample.php
 wp-cron.php
 wp-includes/
 wp-links-opml.php
