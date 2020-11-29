@@ -1,4 +1,4 @@
-# thewaterdesk
+# The Water Desk Wordpress Child Theme
 Repository for waterdesk.org
 
 ## What is a child theme?
